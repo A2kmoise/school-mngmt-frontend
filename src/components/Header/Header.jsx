@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
     return(
-        <div className="flex py-5 bg-blue-950 ml-0 pl-0 mr-0 pr-0">
+        <div className="flex py-5 bg-blue-950 ml-0 pl-0 mr-0 pr-0 w-full ">
         
             <div>
                 <img src="./logo.png" alt="OpenAI Logo" className="h-10 pl-8 w-28" /> 
